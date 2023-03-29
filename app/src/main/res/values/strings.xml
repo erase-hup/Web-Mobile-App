@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">The Android Mania</string>
-    <string name="title_activity_home">The Android Mania</string>
+    <string name="app_name">YaparaKazan</string>
+    <string name="title_activity_home">YaparaKazan</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="email">hello@murait.com</string>
-    <string name="phone">+919898989898</string>
+    <string name="email">onfo@kuegoo.com</string>
+    <string name="phone">+905319859696</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
