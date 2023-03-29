@@ -24,7 +24,7 @@ class HomeActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityHomeBinding
-    private val url = "https://www.theandroid-mania.com/"
+    private val url = "https://danis.manlik.com.tr/"
     private var currentUrl = ""
     private val FILECHOOSER_RESULTCODE = 190
     private var mInterstitialAd: InterstitialAd? = null
